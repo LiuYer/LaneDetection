@@ -1,8 +1,9 @@
 # LaneDetection
+
 Detect Line in the static image using OpenCV using different methods.
 
 ## Status
-Currently not available for use directly
+Work in progress. Coming fairly soon to a github repository near you.
 
 ## Requirement
 Visual Studio 2013
